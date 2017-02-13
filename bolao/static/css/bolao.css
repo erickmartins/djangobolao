@@ -47,3 +47,7 @@ date {
 .post h1 a, .post h1 a:visited {
     color: #000000;
 }
+
+table, th, td {
+   border: 1px solid black;
+}
