@@ -25,7 +25,7 @@ SECRET_KEY = 'yndwq(!xbhfv&i6canagt+vht%=9*c=d_4&!*$4c^5b%e$e#4*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'futebol-alternativo.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'futebol-alternativo.com', '.pythonanywhere.com']
 
 
 # Application definition
